@@ -1,2 +1,2 @@
 # firstrepo
-Test repository for my first use of GitHut
+Test repository for my first use of GitHub
